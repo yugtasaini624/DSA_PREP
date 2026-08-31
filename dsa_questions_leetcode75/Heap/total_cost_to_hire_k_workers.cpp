@@ -10,8 +10,7 @@ You are also given two integers k and candidates. We want to hire exactly k work
     If there are fewer than candidates workers remaining, choose the worker with the lowest cost among them. Break the tie by the smallest index.
     A worker can only be chosen once.
 
-Return the total cost to hire exactly k workers.
-
+Return the total cost to hire exactly k workers
  
 
 Example 1:
